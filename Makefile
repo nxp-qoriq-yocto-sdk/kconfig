@@ -5,7 +5,7 @@
 PHONY += oldconfig xconfig gconfig menuconfig config silentoldconfig update-po-config
 HOSTCC := cc
 HOSTCXX := c++
-HOSTCFLAGS := -O2 -DPROJECT=\"Topaz\" -DPROJECTADJ=\"Topaz\" -I.
+HOSTCFLAGS := -O2 -DPROJECT=\"Freescale-Embedded-Hypervisor\" -DPROJECTADJ=\"Freescale-Embedded-Hypervisor\" -I.
 CONFIG_SHELL := sh
 MKDIR := mkdir -p
 
