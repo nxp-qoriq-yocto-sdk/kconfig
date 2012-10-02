@@ -1,0 +1,4 @@
+This is a copy of kconfig used by the Linux Kernel and is used
+by the Embedded Hypervisor build system.
+
+For more details see the README in Hypervisor's directory.
